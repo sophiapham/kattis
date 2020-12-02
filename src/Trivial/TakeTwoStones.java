@@ -1,3 +1,5 @@
+package Trivial;
+
 import java.util.Scanner;
 
 public class TakeTwoStones {

@@ -1,3 +1,5 @@
+package Hard;
+
 import java.util.Scanner;
 // NOT FINISHED
 public class LuckyDraw {
