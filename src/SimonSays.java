@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Correct, but gives RunTimeError on Kattis
 public class SimonSays {
     public static void main(String args[]) throws Exception {
         Scanner sc = new Scanner(System.in);
